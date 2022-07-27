@@ -1,13 +1,13 @@
-Server/env/Lib/site-packages/
-!Server/env/Lib/site-packages/__pycache__
-!Server/env/Lib/site-packages/pip
-!Server/env/Lib/site-packages/pip_package
-!Server/env/Lib/site-packages/pip-19.2.3.dist-info
-!Server/env/Lib/site-packages/pkg_resources
-!Server/env/Lib/site-packages/setuptools
-!Server/env/Lib/site-packages/setuptools-41.2.0.dist-info
-!Server/env/Lib/site-packages/easy_install.py
+env/Lib/site-packages/
+!env/Lib/site-packages/__pycache__
+!env/Lib/site-packages/pip
+!env/Lib/site-packages/pip_package
+!env/Lib/site-packages/pip-19.2.3.dist-info
+!env/Lib/site-packages/pkg_resources
+!env/Lib/site-packages/setuptools
+!env/Lib/site-packages/setuptools-41.2.0.dist-info
+!env/Lib/site-packages/easy_install.py
 
 
 
-node_modules/
+
